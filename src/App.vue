@@ -4,5 +4,5 @@
 </template>
 
 <script setup>
-  const message = ref('Hello there !')
+  const message = ref('Hello there ! \n Coucou')
 </script>
